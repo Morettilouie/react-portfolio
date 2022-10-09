@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.525a9f97.css",
+    "main.js": "/react-portfolio/static/js/main.a9a8cb57.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/photo-port.png": "/react-portfolio/static/media/photo-port.6acc086f1817558bd3f7.png",
+    "static/media/code-quiz.png": "/react-portfolio/static/media/code-quiz.28d0fb8113af5f84ea98.png",
+    "static/media/weather-app.png": "/react-portfolio/static/media/weather-app.91171ad5f4c87f4f9b60.png",
+    "static/media/password.png": "/react-portfolio/static/media/password.49d78b4bb49012b26798.png",
+    "static/media/peeping-pigeons-bird.png": "/react-portfolio/static/media/peeping-pigeons-bird.db8721ae714bd45e30b5.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.525a9f97.css.map": "/react-portfolio/static/css/main.525a9f97.css.map",
+    "main.a9a8cb57.js.map": "/react-portfolio/static/js/main.a9a8cb57.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.525a9f97.css",
+    "static/js/main.a9a8cb57.js"
+  ]
+}
