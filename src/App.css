@@ -1,3 +1,111 @@
 * {
-  color: blue;
+  margin: 0;
+  padding: 0;
+}
+
+/* HEADER */
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  padding: 20px 35px;
+  background-color: black;
+  position: -webkit-sticky;
+  /* position: sticky; */
+  top: 0%;
+  z-index: 9999;
+}
+
+.title {
+  color: white;
+}
+
+.nav-list:hover {
+  color: white;
+}
+
+h1 a {
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  line-height: 1.5;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+
+nav a {
+  text-decoration: none;
+  color: silver;
+  font-size: 20px;
+  margin-right: 18px;
+}
+
+/* END OF HEADER */
+
+.hero {
+  /* background-image: url("../images/media-pic.jpg"); */
+  background-size: cover;
+  height: 500px;
+  width: 100%;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 30px;
+  line-height: 50px;
+  border-bottom: 3px solid white;
+  padding-bottom: 20px;
+  text-decoration: underline;
+}
+
+.about-me {
+  display: flex;
+  justify-content: space-around;
+}
+
+.my-info {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.skills-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.skills-list span {
+  background-color: black;
+  color: white;
+}
+
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  justify-items: center;
+}
+
+.projects div {
+  border: 3px solid black;
+  height: 450px;
+  width: 250px;
+  background-color: silver;
+}
+
+.project-img {
+  height: 83%;
+  width: 100%;
+}
+
+.projects .project-img:hover {
+  opacity: .7;
 }

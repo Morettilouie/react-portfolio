@@ -39,8 +39,8 @@ function Contact() {
             <h2 className="section-title">
                 Contact Me
             </h2>
-            <p>Phone: (636.577.7651)<br />
-                Email: <a href="mailto:morettilouie@gmail.com">morettilouie@gmail.com</a></p>
+            <p>Phone: (555.555.5555)<br />
+                Email: <a href="mailto:morettilouie@gmail.com">example@email.com</a></p>
                 <p>Checkout my work at my <a href="https://github.com/Morettilouie">GitHub</a></p>
         </section>
     )
