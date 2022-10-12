@@ -3,7 +3,7 @@ import pigeon from "../../img/peeping-pigeons-bird.png";
 import photo from "../../img/photo-port.png";
 import code from "../../img/code-quiz.png";
 import weather from "../../img/weather-app.png";
-import password from "../../img/password.png";
+import rated from "../../img/rated.png";
 
 function Projects() {
     return (
@@ -32,10 +32,10 @@ function Projects() {
                     <h3>Weather Dashboard</h3>
                     <h4>HTML, JavaScript, APIs</h4>
                 </div>
-                <div className="password-generator">
-                    <a href="https://morettilouie.github.io/Password-Generator/"><img src={password} alt="password generator" className="project-img" /></a>
-                    <h3>Password Generator</h3>
-                    <h4>HTML, JavaScript</h4>
+                <div className="Rated">
+                    <a href="https://morettilouie.github.io/Rated/"><img src={rated} alt="rated" className="project-img" /></a>
+                    <h3>Rated</h3>
+                    <h4>APIs, Node.js, Express</h4>
                 </div>
                 
             </div>

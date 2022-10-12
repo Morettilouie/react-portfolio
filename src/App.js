@@ -1,6 +1,6 @@
 import React from 'react';
-import Nav from './components/Nav';
 import './App.css';
+import Nav from './components/Nav';
 import About from './components/About/index.js';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
